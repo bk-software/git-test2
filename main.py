@@ -1,5 +1,5 @@
 
 def main():
-    print('hello')
-
+    print('תודה לברק על הסדנא הנפלאה')
+    
 main()
